@@ -4,7 +4,6 @@ body {
     background-size: cover;
     background-position: center;
     padding-left: 20px;
-    color: blue;32
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -20,7 +19,7 @@ list-style-type: disc;
     {
 
 list-style-type: upper-latin;
-
+color: white;
     }
 
 
