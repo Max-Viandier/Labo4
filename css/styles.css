@@ -1,6 +1,6 @@
 body {
 
-    background-image: url("/images/cinema.jpg");    
+    background-image: url("images/cinema.jpg");    
     background-size: cover;
     background-position: center;
     padding-left: 20px;
