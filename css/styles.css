@@ -1,0 +1,40 @@
+body {
+
+    background-image: url("/images/cinema.jpg");    
+    background-size: cover;
+    background-position: center;
+    padding-left: 20px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+    ul
+    
+    {
+
+list-style-type: disc;
+
+    }
+
+   
+    ol
+
+    {
+
+list-style-type: upper-latin;
+
+    }
+
+
+span
+
+ {
+
+        list-style: none;
+        color: yellowgreen;
+        font-size: 25px;
+        
+ }
+
+ 
