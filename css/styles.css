@@ -5,6 +5,7 @@ body {
     background-position: center;
     padding-left: 20px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
 }
 
 
@@ -19,7 +20,7 @@ list-style-type: disc;
     {
 
 list-style-type: upper-latin;
-color: white;
+
     }
 
 
