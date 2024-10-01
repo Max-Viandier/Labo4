@@ -1,14 +1,7 @@
-
-
 body {
-
-    background-image:url("images/cinema.jpg");    
-    background-position: center;
+    background-image:url("/images/cinema.jpg");
     background-size: cover;
-}
-
-body
-{
+    background-position: center;
     padding-left: 20px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: white;
