@@ -4,22 +4,19 @@ body {
     background-size: cover;
     background-position: center;
     padding-left: 20px;
-    color: black;
+    color: blue;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
     ul
-    
     {
 
 list-style-type: disc;
 
     }
 
-   
     ol
-
     {
 
 list-style-type: upper-latin;
@@ -28,7 +25,6 @@ list-style-type: upper-latin;
 
 
 span
-
  {
 
         list-style: none;
